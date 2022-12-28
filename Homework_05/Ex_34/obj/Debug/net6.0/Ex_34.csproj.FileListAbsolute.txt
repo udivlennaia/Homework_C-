@@ -1,0 +1,15 @@
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\bin\Debug\net6.0\Ex_34.exe
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\bin\Debug\net6.0\Ex_34.deps.json
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\bin\Debug\net6.0\Ex_34.runtimeconfig.json
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\bin\Debug\net6.0\Ex_34.dll
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\bin\Debug\net6.0\Ex_34.pdb
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\Ex_34.csproj.AssemblyReference.cache
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\Ex_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\Ex_34.AssemblyInfoInputs.cache
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\Ex_34.AssemblyInfo.cs
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\Ex_34.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\Ex_34.dll
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\refint\Ex_34.dll
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\Ex_34.pdb
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\Ex_34.genruntimeconfig.cache
+C:\Users\Владелец\Desktop\control versiy\C_lessons\Homework_05\Ex_34\obj\Debug\net6.0\ref\Ex_34.dll
